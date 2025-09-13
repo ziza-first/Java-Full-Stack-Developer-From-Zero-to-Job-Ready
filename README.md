@@ -1,4 +1,5 @@
 **Course Description**
+
 Become a versatile and in-demand Java Full Stack Developer with this comprehensive, hands-on course. You will go from foundational Java concepts to building and deploying a complete, real-world application.
 
 This program is designed for beginners and intermediate learners who want to master both the front-end and back-end of modern web development. We will cover the core technologies used by top tech companies, ensuring you have the skills to build a solid portfolio and confidently apply for jobs.
